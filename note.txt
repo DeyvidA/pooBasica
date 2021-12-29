@@ -1,0 +1,8 @@
+Las clases son unas sintaxis mas amigables para trabajar con prototipos
+
+Palabras clave de funcion y prototipos: __proto__ prototype
+
+El polimorfismo es la herencia 2.0
+Le permite a las subclases, cambiar e  incluso anular el comportamieto y atributos de una super clase
+
+Que son los prototipos:
